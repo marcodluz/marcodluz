@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Recipe Application](https://github.com/marcodluz/RecipeApp)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Unity3D Development**
 
 - 👯 I’m looking to collaborate on [Visual Studio Code](https://github.com/microsoft/vscode)
 
