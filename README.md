@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcodluz&label=Profile%20views&color=0e75b6&style=flat" alt="marcodluz" /> </p>
 
-- 🔭 I’m currently working on [Recipe Application](https://github.com/marcodluz/RecipeApp)
+- 🔭 I’m currently working on [Pixels](https://github.com/PixelsGame)
 
 - 🌱 I’m currently learning [Unity3D Development](https://learn.unity.com/u/marcodluz)
 
