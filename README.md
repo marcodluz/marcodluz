@@ -10,7 +10,7 @@
 
 <!-- - 👯 I’m looking to collaborate on [Visual Studio Code](https://github.com/microsoft/vscode) -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/marcodluz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Marco Luz - LinkedIn" height="30" width="40" /></a>
